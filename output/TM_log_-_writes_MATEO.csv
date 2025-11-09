@@ -1,0 +1,7 @@
+step,state,head,read,write,move,next_state,tape
+1,q1,1,⊔,M,R,q1, ⊔  ⊔  M [⊔] ⊔ 
+2,q2,2,⊔,A,R,q2, ⊔  ⊔  M  A [⊔] ⊔ 
+3,q3,3,⊔,T,R,q3, ⊔  ⊔  M  A  T [⊔] ⊔ 
+4,q4,4,⊔,E,R,q4, ⊔  ⊔  M  A  T  E [⊔] ⊔ 
+5,q5,5,⊔,O,R,q5, ⊔  ⊔  M  A  T  E  O [⊔] ⊔ 
+6,HALT,5,⊔,⊔,S,HALT, ⊔  ⊔  M  A  T  E  O [⊔] ⊔  ⊔ 
