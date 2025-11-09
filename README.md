@@ -32,6 +32,17 @@ Este principio es la base de **toda computadora moderna**.
 
 ---
 
+Autor: Mateo Henao Correa
+Estudiante de Ingeniería de Software 🎓
+Universidad Iberoamericana
+
+---
+📘 Referencias
+
+Alan Turing, On Computable Numbers, with an Application to the Entscheidungsproblem (1936)
+Wikipedia: Máquina de Turing
+Python Documentation: Dataclasses
+
 ## 💻 Código principal (`main.py`)
 
 El script define:
@@ -45,12 +56,5 @@ Cada transición sigue el formato:
 ```python
 (state, read_symbol) -> (write_symbol, move_direction, next_state)
 
-📘 Referencias
 
-Alan Turing, On Computable Numbers, with an Application to the Entscheidungsproblem (1936)
-Wikipedia: Máquina de Turing
-Python Documentation: Dataclasses
 
-Autor: Mateo Henao Correa
-Estudiante de Ingeniería de Software 🎓
-Universidad Iberoamericana
